@@ -1,0 +1,5 @@
+#!/bin/bash
+export EDITOR=vim
+
+# Ignore duplicate commands and commands beginning with space
+export HISTCONTROL=ignoreboth
